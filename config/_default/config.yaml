@@ -5,6 +5,3 @@ params:
     position: hero
   search:
     active: true
-  logo:
-    header: ''
-    footer: ''
