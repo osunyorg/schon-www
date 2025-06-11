@@ -10,10 +10,6 @@ en:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /posts/:year-:month-:day-:slug/
-    posts_categories: /posts/:slug/
   taxonomies:
     administrator: administrators
     author: authors
