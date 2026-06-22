@@ -4,3 +4,15 @@ h1, h2, h3, h4, h5, h6,
 
 body
     letter-spacing: -0.05em
+
+.hero
+    @include media-breakpoint-up(desktop)
+        .content
+            display: block
+        .hero-text
+            margin-top: 0 !important
+        .hero-image
+            order: -1
+            width: inherit !important
+            margin-left: var(--grid-gutter-negative)
+            margin-right: var(--grid-gutter-negative)
