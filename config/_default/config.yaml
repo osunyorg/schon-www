@@ -10,19 +10,20 @@ params:
   default:
     single:
       meta:
+        position: hero
         options:
           with_labels: false
   breadcrumb:
     position: after-hero
-  image_sizes:
-    _default:
-      hero:
-        mobile:   400
-        tablet:   800
-        desktop:  1440
-    sections:
-      posts:
-        hero_single:
-          mobile:   400
-          tablet:   800
-          desktop:  1440
+  # image_sizes:
+  #   _default:
+  #     hero:
+  #       mobile:   400
+  #       tablet:   800
+  #       desktop:  1440
+  #   sections:
+  #     posts:
+  #       hero_single:
+  #         mobile:   400
+  #         tablet:   800
+  #         desktop:  1440
