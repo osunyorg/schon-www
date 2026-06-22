@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/posts/2026-06-22-humbe/index.html"
+to = "/posts/2026-06-18-humbe/"
+
+[[redirects]]
 from = "/posts/2026-06-22-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story/"
 
