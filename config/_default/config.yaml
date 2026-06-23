@@ -15,6 +15,9 @@ params:
           with_labels: false
   breadcrumb:
     position: after-hero
+  home:
+    head:
+      title: site
   # image_sizes:
   #   _default:
   #     hero:
