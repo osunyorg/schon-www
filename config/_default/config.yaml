@@ -15,6 +15,9 @@ params:
           with_labels: false
   breadcrumb:
     position: after-hero
+  posts:
+    index:
+      layout: grid
   home:
     head:
       title: site
