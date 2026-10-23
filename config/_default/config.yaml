@@ -5,6 +5,11 @@ params:
     position: hero
   search:
     active: true
+    i18n:
+      positions:
+        - primary
+        # - upper-menu
+        # - footer
   logo:
     footer: "/assets/images/logo-white.svg"
   default:
