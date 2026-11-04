@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/nocte-statuae/index.html"
+to = "/posts/2025-02-23-nocte-statuae/"
+
+[[redirects]]
 from = "/24h-in-zurich-guide/index.html"
 to = "/posts/2023-02-03-24h-in-zurich-guide/"
 
