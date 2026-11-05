@@ -15,30 +15,826 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/in-the-world-of-petite-meller-an-alchemist-of-sound-and-style/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-104/"
+
+[[redirects]]
+from = "/house-of-orsini/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-97/"
+
+[[redirects]]
+from = "/alba-de-la-fuente-trailblazing-architect/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-9/"
+
+[[redirects]]
+from = "/delta/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-59/"
+
+[[redirects]]
+from = "/beyond-tennis-federers-off-the-court-legacy/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-27/"
+
+[[redirects]]
 from = "/posts/2026-06-18-humbe/index.html"
 to = "/posts/2026-06-18-humbe-old/"
 
 [[redirects]]
+from = "/meta-get-ready-what-is-web3/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-137/"
+
+[[redirects]]
+from = "/redemption/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-162/"
+
+[[redirects]]
+from = "/chroma/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-42/"
+
+[[redirects]]
+from = "/fashion-backstage/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-76/"
+
+[[redirects]]
+from = "/chocolate-story-its-a-chocolate/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-41/"
+
+[[redirects]]
+from = "/hear-me-out/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-94/"
+
+[[redirects]]
+from = "/midnight-cowboy/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-139/"
+
+[[redirects]]
+from = "/car-park/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-38/"
+
+[[redirects]]
+from = "/a-visual-embodiment-of-the-muse-juliana-nalu/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-20/"
+
+[[redirects]]
+from = "/meredith-duxbury-radiant-revelations/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-133/"
+
+[[redirects]]
+from = "/posts/2025-02-23-nocte-statuae/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-147/"
+
+[[redirects]]
+from = "/kintsugi/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-114/"
+
+[[redirects]]
+from = "/geode/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-86/"
+
+[[redirects]]
+from = "/earth-whispers/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-67/"
+
+[[redirects]]
+from = "/freeze-frame/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-84/"
+
+[[redirects]]
+from = "/claudia-rafael-painting-with-code/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-43/"
+
+[[redirects]]
+from = "/the-carlton-chameleon/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-194/"
+
+[[redirects]]
+from = "/sail-away/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-169/"
+
+[[redirects]]
+from = "/decentralized-autonomous-organization-in-the-digital-realm-what-is-a-dao/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-57/"
+
+[[redirects]]
+from = "/house-of-coco-interview-with-coco-rocha/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-96/"
+
+[[redirects]]
+from = "/emerge-from-the-surreal/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-71/"
+
+[[redirects]]
+from = "/humbe/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-98/"
+
+[[redirects]]
+from = "/a-taste-of-elegance/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-17/"
+
+[[redirects]]
+from = "/sphere/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-182/"
+
+[[redirects]]
+from = "/oramavr-medical-vr-training/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-152/"
+
+[[redirects]]
+from = "/the-creator/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-196/"
+
+[[redirects]]
+from = "/dark-fantasy/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-54/"
+
+[[redirects]]
+from = "/subtlety/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-185/"
+
+[[redirects]]
+from = "/a-rising-star-interview-with-thomas-doherty/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-15/"
+
+[[redirects]]
+from = "/shapeless/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-176/"
+
+[[redirects]]
+from = "/neo-modern-breath/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-144/"
+
+[[redirects]]
+from = "/sleek-and-cold/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-179/"
+
+[[redirects]]
+from = "/overture/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-153/"
+
+[[redirects]]
+from = "/backstage-ballet/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-21/"
+
+[[redirects]]
+from = "/all-the-things-i-used-to-see/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-12/"
+
+[[redirects]]
+from = "/marmoris/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-129/"
+
+[[redirects]]
+from = "/marco-schmidli/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-128/"
+
+[[redirects]]
+from = "/shades-of-women/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-175/"
+
+[[redirects]]
+from = "/the-haotian-dream/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-199/"
+
+[[redirects]]
+from = "/color-up-your-life/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-49/"
+
+[[redirects]]
+from = "/%e2%88%9e/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-66/"
+
+[[redirects]]
+from = "/beauty-building/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-22/"
+
+[[redirects]]
+from = "/playground/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-156/"
+
+[[redirects]]
+from = "/set-chronicles/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-173/"
+
+[[redirects]]
+from = "/refik-anadol/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-163/"
+
+[[redirects]]
+from = "/bloom/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-30/"
+
+[[redirects]]
+from = "/generative-fill/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-85/"
+
+[[redirects]]
+from = "/escape/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-74/"
+
+[[redirects]]
+from = "/colin-phelan/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-46/"
+
+[[redirects]]
+from = "/lionheart/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-122/"
+
+[[redirects]]
+from = "/nailzzz/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-143/"
+
+[[redirects]]
+from = "/medusa/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-131/"
+
+[[redirects]]
+from = "/in-constant-motion-with-by-giorgio-andrea-branduardi/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-101/"
+
+[[redirects]]
+from = "/dimension/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-60/"
+
+[[redirects]]
+from = "/surreal/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-188/"
+
+[[redirects]]
+from = "/posts/2026-07-29-hannah-widmer/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-91/"
+
+[[redirects]]
+from = "/never-ending-summer/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-145/"
+
+[[redirects]]
+from = "/introducing-six-n-five-the-visionary-world-of-ezequiel-pini/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-105/"
+
+[[redirects]]
+from = "/beyond-measure/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-26/"
+
+[[redirects]]
+from = "/dressx-metafashions-avatar/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-63/"
+
+[[redirects]]
+from = "/siren/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-178/"
+
+[[redirects]]
+from = "/glowing/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-89/"
+
+[[redirects]]
+from = "/ruby-rhapsody/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-168/"
+
+[[redirects]]
+from = "/lana/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-117/"
+
+[[redirects]]
+from = "/precious-achiuwa/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-157/"
+
+[[redirects]]
 from = "/nocte-statuae/index.html"
-to = "/posts/2025-02-23-nocte-statuae/"
+to = "/posts/2023-02-03-24h-in-zurich-guide-147/"
+
+[[redirects]]
+from = "/form/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-82/"
+
+[[redirects]]
+from = "/fierce-elegance/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-78/"
+
+[[redirects]]
+from = "/fortune-teller/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-83/"
+
+[[redirects]]
+from = "/jhona-burjack-gabriella-pires/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-110/"
+
+[[redirects]]
+from = "/fluxus/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-81/"
+
+[[redirects]]
+from = "/the-beginning-and-the-end/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-193/"
+
+[[redirects]]
+from = "/stephen-brown-visionary-unveiled/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-183/"
+
+[[redirects]]
+from = "/flow/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-80/"
+
+[[redirects]]
+from = "/menu-a-la-carte/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-132/"
+
+[[redirects]]
+from = "/sparse-woman/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-181/"
+
+[[redirects]]
+from = "/steven-kruegers-unique-path/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-184/"
+
+[[redirects]]
+from = "/brutalism/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-34/"
+
+[[redirects]]
+from = "/common-threads/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-50/"
+
+[[redirects]]
+from = "/elle-macpherson-the-power-of-intuative-living/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-69/"
+
+[[redirects]]
+from = "/flashing-lights/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-79/"
+
+[[redirects]]
+from = "/eden-golan/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-68/"
+
+[[redirects]]
+from = "/alvaro/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-13/"
+
+[[redirects]]
+from = "/aliens/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-11/"
+
+[[redirects]]
+from = "/homestead/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-95/"
+
+[[redirects]]
+from = "/susan-duff-endless-love/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-189/"
+
+[[redirects]]
+from = "/reboot-reset-restart/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-161/"
+
+[[redirects]]
+from = "/reverie/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-166/"
+
+[[redirects]]
+from = "/a-vertical-vogue/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-19/"
+
+[[redirects]]
+from = "/seasonal-vexation/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-172/"
+
+[[redirects]]
+from = "/meta-get-ready-what-is-the-metaverse/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-136/"
+
+[[redirects]]
+from = "/renew/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-165/"
+
+[[redirects]]
+from = "/enter-the-bath-house/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-73/"
+
+[[redirects]]
+from = "/pink-me-im-dreaming/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-154/"
+
+[[redirects]]
+from = "/moths-to-a-flame/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-141/"
+
+[[redirects]]
+from = "/la-boheme/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-115/"
+
+[[redirects]]
+from = "/dior-x-parley-for-the-oceans/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-61/"
+
+[[redirects]]
+from = "/colorburn/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-47/"
+
+[[redirects]]
+from = "/new-wave/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-146/"
+
+[[redirects]]
+from = "/la-nuit/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-118/"
+
+[[redirects]]
+from = "/elle-macpherson-the-power-of-intuitive-living/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-70/"
+
+[[redirects]]
+from = "/dynamism-of-the-future/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-65/"
+
+[[redirects]]
+from = "/the-cupidon-effect/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-197/"
+
+[[redirects]]
+from = "/a-brazilian-tale/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-2/"
+
+[[redirects]]
+from = "/luminous/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-125/"
+
+[[redirects]]
+from = "/s-o-s/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-180/"
+
+[[redirects]]
+from = "/signaling-the-future/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-177/"
+
+[[redirects]]
+from = "/maye-musk-bold-blue/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-130/"
+
+[[redirects]]
+from = "/opacity/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-151/"
+
+[[redirects]]
+from = "/lunar-eclipse/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-126/"
+
+[[redirects]]
+from = "/double-life/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-62/"
+
+[[redirects]]
+from = "/90s-kids/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-1/"
+
+[[redirects]]
+from = "/the-color-blue/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-195/"
+
+[[redirects]]
+from = "/jenia-filatova-artistic-convergence/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-109/"
+
+[[redirects]]
+from = "/communities-in-the-world-of-bits/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-51/"
+
+[[redirects]]
+from = "/a-future-in-motion/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-7/"
+
+[[redirects]]
+from = "/savannah-mirage/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-170/"
+
+[[redirects]]
+from = "/alessandra-ambrosio-captured-elegance/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-10/"
+
+[[redirects]]
+from = "/shades-of-us/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-174/"
+
+[[redirects]]
+from = "/beauty-disrupted-rebels-with-a-cause/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-23/"
+
+[[redirects]]
+from = "/life-in-dreamscape/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-120/"
+
+[[redirects]]
+from = "/london-thunder/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-123/"
+
+[[redirects]]
+from = "/castell-son-claret/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-39/"
+
+[[redirects]]
+from = "/merry-widows/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-134/"
+
+[[redirects]]
+from = "/kat-graham-shades-of-kat/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-113/"
+
+[[redirects]]
+from = "/blue-horizon/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-32/"
+
+[[redirects]]
+from = "/sunset-serenade/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-187/"
+
+[[redirects]]
+from = "/fever-dream/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-77/"
+
+[[redirects]]
+from = "/on-the-other-side/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-150/"
+
+[[redirects]]
+from = "/brighton-by-the-sea/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-33/"
+
+[[redirects]]
+from = "/cara/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-37/"
+
+[[redirects]]
+from = "/blueboy-ride/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-31/"
+
+[[redirects]]
+from = "/goth-rebirth/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-90/"
+
+[[redirects]]
+from = "/jon-kortajarena-infinite-charisma/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-111/"
 
 [[redirects]]
 from = "/24h-in-zurich-guide/index.html"
 to = "/posts/2023-02-03-24h-in-zurich-guide/"
 
 [[redirects]]
+from = "/meta-buzz-open-24-7/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-135/"
+
+[[redirects]]
+from = "/crafting-illusions/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-52/"
+
+[[redirects]]
+from = "/e-motion/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-72/"
+
+[[redirects]]
+from = "/love-energy/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-124/"
+
+[[redirects]]
+from = "/abyss/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-3/"
+
+[[redirects]]
+from = "/take-a-bow/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-191/"
+
+[[redirects]]
+from = "/indira-varma/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-102/"
+
+[[redirects]]
+from = "/davide-corona/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-56/"
+
+[[redirects]]
+from = "/reviving-60s/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-167/"
+
+[[redirects]]
+from = "/the-future-of-mental-health-in-the-metaverse-with-krista-kim/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-198/"
+
+[[redirects]]
+from = "/raph/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-159/"
+
+[[redirects]]
+from = "/ivan-pellicer/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-108/"
+
+[[redirects]]
+from = "/clear-vision/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-44/"
+
+[[redirects]]
+from = "/color-ecstasy/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-48/"
+
+[[redirects]]
 from = "/hannah-widmer/index.html"
-to = "/posts/2026-07-29-hannah-widmer/"
+to = "/posts/2023-02-03-24h-in-zurich-guide-91/"
+
+[[redirects]]
+from = "/autoportrait-of-a-muse/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-18/"
+
+[[redirects]]
+from = "/dark-lights/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-55/"
+
+[[redirects]]
+from = "/synthesis/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-190/"
 
 [[redirects]]
 from = "/posts/2026-06-22-humbe/index.html"
 to = "/posts/2026-06-18-humbe-old/"
 
 [[redirects]]
+from = "/aeschne/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-6/"
+
+[[redirects]]
+from = "/limitless/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-121/"
+
+[[redirects]]
+from = "/planet-huet/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-155/"
+
+[[redirects]]
+from = "/raphael-mazzucco-the-canadian-visionary-behind-the-lens/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-160/"
+
+[[redirects]]
+from = "/not-just-a-token-entrepreneur/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-148/"
+
+[[redirects]]
+from = "/ode-to-self/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-149/"
+
+[[redirects]]
+from = "/gliding-shadows/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-88/"
+
+[[redirects]]
+from = "/momentx/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-140/"
+
+[[redirects]]
+from = "/the-artling/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-192/"
+
+[[redirects]]
+from = "/girls-remember-dont-smile-walk-straight-look-tough/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-87/"
+
+[[redirects]]
+from = "/maksim/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-127/"
+
+[[redirects]]
+from = "/beauty-in-the-dark/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-24/"
+
+[[redirects]]
+from = "/dr-martha-boeckenfeld-a-visionary-looks-to-the-future/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-64/"
+
+[[redirects]]
+from = "/beyond-the-limits/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-28/"
+
+[[redirects]]
+from = "/bipolar/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-29/"
+
+[[redirects]]
+from = "/am/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-14/"
+
+[[redirects]]
+from = "/brutalist-utopia/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-35/"
+
+[[redirects]]
+from = "/a-infinitenot-an-ai-story/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-8/"
+
+[[redirects]]
+from = "/journee-wwf-oceandetox-the-first-metaverse-for-a-good-cause/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-112/"
+
+[[redirects]]
+from = "/around-la-brea/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-16/"
+
+[[redirects]]
+from = "/addicted/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-5/"
+
+[[redirects]]
+from = "/inner-bloom/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-103/"
+
+[[redirects]]
+from = "/across-shameik-verse/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-4/"
+
+[[redirects]]
+from = "/summer-love-story/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-186/"
+
+[[redirects]]
+from = "/my-homeland/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-142/"
+
+[[redirects]]
+from = "/im-persephone/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-100/"
+
+[[redirects]]
+from = "/defiance/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-58/"
+
+[[redirects]]
+from = "/before-the-after-hours/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-25/"
+
+[[redirects]]
+from = "/lagoon-gal/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-116/"
+
+[[redirects]]
+from = "/immersed-in-the-rhythm/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-99/"
+
+[[redirects]]
+from = "/meta-reflection-lets-be-realistic/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-138/"
+
+[[redirects]]
+from = "/haute-fluidity/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-92/"
+
+[[redirects]]
+from = "/reflected-illusions/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-164/"
+
+[[redirects]]
+from = "/les-fleurs-du-mal/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-119/"
+
+[[redirects]]
+from = "/closer/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-45/"
+
+[[redirects]]
 from = "/posts/2026-06-21-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
 
 [[redirects]]
+from = "/screen-time/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-171/"
+
+[[redirects]]
+from = "/rainbow/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-158/"
+
+[[redirects]]
+from = "/brut-bloom/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-36/"
+
+[[redirects]]
+from = "/ex-umano/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-75/"
+
+[[redirects]]
+from = "/isaac-dunbar/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-106/"
+
+[[redirects]]
+from = "/%d0%b7o%d0%bbo%d1%82a%d1%8f-%d0%b1a%d0%b1azolotaya-baba-golden-woman/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-53/"
+
+[[redirects]]
+from = "/istituto-svizzero-klodin-erb/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-107/"
+
+[[redirects]]
 from = "/posts/2026-06-22-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
+
+[[redirects]]
+from = "/haute-splash/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-93/"
+
+[[redirects]]
+from = "/chiara-oscuro/index.html"
+to = "/posts/2023-02-03-24h-in-zurich-guide-40/"
 
