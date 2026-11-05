@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/posts/2026-06-18-humbe/index.html"
+to = "/posts/2026-06-18-humbe-old/"
+
+[[redirects]]
 from = "/nocte-statuae/index.html"
 to = "/posts/2025-02-23-nocte-statuae/"
 
@@ -28,9 +32,13 @@ to = "/posts/2026-07-29-hannah-widmer/"
 
 [[redirects]]
 from = "/posts/2026-06-22-humbe/index.html"
-to = "/posts/2026-06-18-humbe/"
+to = "/posts/2026-06-18-humbe-old/"
+
+[[redirects]]
+from = "/posts/2026-06-21-ainfinitenot-an-ai-story/index.html"
+to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
 
 [[redirects]]
 from = "/posts/2026-06-22-ainfinitenot-an-ai-story/index.html"
-to = "/posts/2026-06-21-ainfinitenot-an-ai-story/"
+to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
 
