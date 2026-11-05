@@ -15,26 +15,698 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/redemption/index.html"
+to = "/posts/2023-05-02-redemption/"
+
+[[redirects]]
+from = "/precious-achiuwa/index.html"
+to = "/posts/2024-02-15-precious-achiuwa/"
+
+[[redirects]]
+from = "/e-motion/index.html"
+to = "/posts/2023-10-31-e-motion/"
+
+[[redirects]]
+from = "/reboot-reset-restart/index.html"
+to = "/posts/2024-03-12-reboot-reset-restart/"
+
+[[redirects]]
+from = "/jenia-filatova-artistic-convergence/index.html"
+to = "/posts/2024-06-08-jenia-filatova-artistic-convergence/"
+
+[[redirects]]
+from = "/meta-reflection-lets-be-realistic/index.html"
+to = "/posts/2023-02-17-meta-reflection-lets-be-realistic/"
+
+[[redirects]]
+from = "/nocte-statuae/index.html"
+to = "/posts/2025-02-23-nocte-statuae/"
+
+[[redirects]]
+from = "/kat-graham-shades-of-kat/index.html"
+to = "/posts/2024-06-15-kat-graham-shades-of-kat/"
+
+[[redirects]]
+from = "/delta/index.html"
+to = "/posts/2024-10-18-delta/"
+
+[[redirects]]
+from = "/kintsugi/index.html"
+to = "/posts/2024-08-17-kintsugi/"
+
+[[redirects]]
+from = "/savannah-mirage/index.html"
+to = ""
+
+[[redirects]]
+from = "/color-up-your-life/index.html"
+to = "/posts/2023-12-23-color-up-your-life/"
+
+[[redirects]]
+from = "/haute-splash/index.html"
+to = "/posts/2023-07-02-haute-splash/"
+
+[[redirects]]
+from = "/around-la-brea/index.html"
+to = "/posts/2023-10-31-around-la-brea/"
+
+[[redirects]]
+from = "/fever-dream/index.html"
+to = "/posts/2024-08-14-fever-dream/"
+
+[[redirects]]
 from = "/posts/2026-06-18-humbe/index.html"
 to = "/posts/2026-06-18-humbe-old/"
+
+[[redirects]]
+from = "/journee-wwf-oceandetox-the-first-metaverse-for-a-good-cause/index.html"
+to = "/posts/2023-02-03-journee-wwf-oceandetox-the-first-metaverse-for-a-good-cause/"
+
+[[redirects]]
+from = "/lana/index.html"
+to = "/posts/2024-07-01-lana/"
+
+[[redirects]]
+from = "/bloom/index.html"
+to = "/posts/2023-10-21-bloom/"
+
+[[redirects]]
+from = "/rainbow/index.html"
+to = "/posts/2024-09-01-rainbow/"
+
+[[redirects]]
+from = "/la-nuit/index.html"
+to = "/posts/2023-11-03-la-nuit/"
+
+[[redirects]]
+from = "/neo-modern-breath/index.html"
+to = "/posts/2024-06-15-neo-modern-breath/"
+
+[[redirects]]
+from = "/dior-x-parley-for-the-oceans/index.html"
+to = "/posts/2023-11-24-dior-x-parley-for-the-oceans/"
+
+[[redirects]]
+from = "/love-energy/index.html"
+to = "/posts/2024-02-18-love-energy/"
+
+[[redirects]]
+from = "/lagoon-gal/index.html"
+to = "/posts/2023-07-03-lagoon-gal/"
+
+[[redirects]]
+from = "/ivan-pellicer/index.html"
+to = "/posts/2024-08-01-ivan-pellicer/"
+
+[[redirects]]
+from = "/haute-fluidity/index.html"
+to = "/posts/2024-02-13-haute-fluidity/"
+
+[[redirects]]
+from = "/never-ending-summer/index.html"
+to = "/posts/2024-09-05-never-ending-summer/"
+
+[[redirects]]
+from = "/brighton-by-the-sea/index.html"
+to = "/posts/2023-04-16-brighton-by-the-sea/"
+
+[[redirects]]
+from = "/backstage-ballet/index.html"
+to = "/posts/2024-07-31-backstage-ballet/"
+
+[[redirects]]
+from = "/freeze-frame/index.html"
+to = "/posts/2023-10-18-freeze-frame/"
+
+[[redirects]]
+from = "/dynamism-of-the-future/index.html"
+to = "/posts/2023-05-30-dynamism-of-the-future/"
+
+[[redirects]]
+from = "/immersed-in-the-rhythm/index.html"
+to = "/posts/2023-04-12-immersed-in-the-rhythm/"
 
 [[redirects]]
 from = "/90s-kids/index.html"
 to = "/posts/2023-05-26-90s-kids/"
 
 [[redirects]]
+from = "/defiance/index.html"
+to = "/posts/2023-04-12-defiance/"
+
+[[redirects]]
+from = "/les-fleurs-du-mal/index.html"
+to = "/posts/2024-04-23-les-fleurs-du-mal/"
+
+[[redirects]]
+from = "/claudia-rafael-painting-with-code/index.html"
+to = "/posts/2023-08-18-claudia-rafael-painting-with-code/"
+
+[[redirects]]
+from = "/colorburn/index.html"
+to = "/posts/2023-05-03-colorburn/"
+
+[[redirects]]
+from = "/brutalist-utopia/index.html"
+to = "/posts/2023-02-16-brutalist-utopia/"
+
+[[redirects]]
+from = "/eden-golan/index.html"
+to = "/posts/2025-04-09-eden-golan/"
+
+[[redirects]]
+from = "/opacity/index.html"
+to = "/posts/2023-04-26-opacity/"
+
+[[redirects]]
+from = "/closer/index.html"
+to = "/posts/2024-02-29-closer/"
+
+[[redirects]]
+from = "/fashion-backstage/index.html"
+to = "/posts/2024-09-13-fashion-backstage/"
+
+[[redirects]]
+from = "/before-the-after-hours/index.html"
+to = "/posts/2023-12-22-before-the-after-hours/"
+
+[[redirects]]
+from = "/beyond-tennis-federers-off-the-court-legacy/index.html"
+to = "/posts/2023-02-09-beyond-tennis-federers-off-the-court-legacy/"
+
+[[redirects]]
+from = "/brut-bloom/index.html"
+to = "/posts/2023-05-08-brut-bloom/"
+
+[[redirects]]
+from = "/blueboy-ride/index.html"
+to = "/posts/2023-10-25-blueboy-ride/"
+
+[[redirects]]
+from = "/my-homeland/index.html"
+to = "/posts/2024-04-19-my-homeland/"
+
+[[redirects]]
+from = "/luminous/index.html"
+to = "/posts/2024-07-15-luminous/"
+
+[[redirects]]
+from = "/london-thunder/index.html"
+to = "/posts/2024-03-10-london-thunder/"
+
+[[redirects]]
+from = "/reverie/index.html"
+to = "/posts/2024-04-13-reverie/"
+
+[[redirects]]
+from = "/marco-schmidli/index.html"
+to = "/posts/2023-02-17-marco-schmidli/"
+
+[[redirects]]
+from = "/dimension/index.html"
+to = "/posts/2024-08-16-dimension/"
+
+[[redirects]]
+from = "/double-life/index.html"
+to = "/posts/2023-04-12-double-life/"
+
+[[redirects]]
+from = "/la-boheme/index.html"
+to = "/posts/2024-02-18-la-boheme/"
+
+[[redirects]]
+from = "/merry-widows/index.html"
+to = "/posts/2023-12-14-merry-widows/"
+
+[[redirects]]
+from = "/renew/index.html"
+to = "/posts/2024-03-12-renew/"
+
+[[redirects]]
+from = "/geode/index.html"
+to = "/posts/2023-04-16-geode/"
+
+[[redirects]]
+from = "/marmoris/index.html"
+to = "/posts/2023-12-24-marmoris/"
+
+[[redirects]]
+from = "/car-park/index.html"
+to = "/posts/2024-08-14-car-park/"
+
+[[redirects]]
+from = "/elle-macpherson-the-power-of-intuitive-living/index.html"
+to = "/posts/2024-01-09-elle-macpherson-the-power-of-intuitive-living/"
+
+[[redirects]]
+from = "/across-shameik-verse/index.html"
+to = "/posts/2023-06-27-across-shameik-verse/"
+
+[[redirects]]
+from = "/on-the-other-side/index.html"
+to = "/posts/2023-04-13-on-the-other-side/"
+
+[[redirects]]
+from = "/playground/index.html"
+to = "/posts/2023-02-17-playground/"
+
+[[redirects]]
+from = "/castell-son-claret/index.html"
+to = "/posts/2023-02-17-castell-son-claret/"
+
+[[redirects]]
+from = "/beyond-the-limits/index.html"
+to = "/posts/2024-06-16-beyond-the-limits/"
+
+[[redirects]]
+from = "/pink-me-im-dreaming/index.html"
+to = "/posts/2023-08-01-pink-me-im-dreaming/"
+
+[[redirects]]
+from = "/alessandra-ambrosio-captured-elegance/index.html"
+to = "/posts/2023-10-24-alessandra-ambrosio-captured-elegance/"
+
+[[redirects]]
+from = "/sail-away/index.html"
+to = "/posts/2023-10-26-sail-away/"
+
+[[redirects]]
+from = "/dressx-metafashions-avatar/index.html"
+to = "/posts/2023-02-16-dressx-metafashions-avatar/"
+
+[[redirects]]
+from = "/raph/index.html"
+to = "/posts/2024-06-22-raph/"
+
+[[redirects]]
+from = "/reflected-illusions/index.html"
+to = "/posts/2024-10-22-reflected-illusions/"
+
+[[redirects]]
+from = "/inner-bloom/index.html"
+to = "/posts/2024-10-22-inner-bloom/"
+
+[[redirects]]
+from = "/house-of-orsini/index.html"
+to = "/posts/2024-08-27-house-of-orsini/"
+
+[[redirects]]
+from = "/alba-de-la-fuente-trailblazing-architect/index.html"
+to = "/posts/2023-08-03-alba-de-la-fuente-trailblazing-architect/"
+
+[[redirects]]
+from = "/ode-to-self/index.html"
+to = "/posts/2024-03-27-ode-to-self/"
+
+[[redirects]]
+from = "/in-constant-motion-with-by-giorgio-andrea-branduardi/index.html"
+to = "/posts/2023-11-06-in-constant-motion-with-by-giorgio-andrea-branduardi/"
+
+[[redirects]]
+from = "/midnight-cowboy/index.html"
+to = "/posts/2023-07-18-midnight-cowboy/"
+
+[[redirects]]
+from = "/beauty-building/index.html"
+to = "/posts/2024-09-12-beauty-building/"
+
+[[redirects]]
+from = "/overture/index.html"
+to = "/posts/2023-12-19-overture/"
+
+[[redirects]]
+from = "/am/index.html"
+to = "/posts/2024-05-27-am/"
+
+[[redirects]]
+from = "/color-ecstasy/index.html"
+to = "/posts/2023-04-13-color-ecstasy/"
+
+[[redirects]]
+from = "/a-future-in-motion/index.html"
+to = "/posts/2023-10-26-a-future-in-motion/"
+
+[[redirects]]
+from = "/a-infinitenot-an-ai-story/index.html"
+to = "/posts/2024-10-23-a-infinitenot-an-ai-story/"
+
+[[redirects]]
+from = "/a-brazilian-tale/index.html"
+to = "/posts/2023-04-12-a-brazilian-tale/"
+
+[[redirects]]
+from = "/maksim/index.html"
+to = "/posts/2025-02-21-maksim/"
+
+[[redirects]]
+from = "/autoportrait-of-a-muse/index.html"
+to = "/posts/2024-07-05-autoportrait-of-a-muse/"
+
+[[redirects]]
+from = "/aeschne/index.html"
+to = "/posts/2023-05-22-aeschne/"
+
+[[redirects]]
+from = "/davide-corona/index.html"
+to = "/posts/2024-10-30-davide-corona/"
+
+[[redirects]]
+from = "/%d0%b7o%d0%bbo%d1%82a%d1%8f-%d0%b1a%d0%b1azolotaya-baba-golden-woman/index.html"
+to = "/posts/2024-04-19-baba-golden-woman/"
+
+[[redirects]]
+from = "/flow/index.html"
+to = "/posts/2023-10-27-flow/"
+
+[[redirects]]
+from = "/beauty-in-the-dark/index.html"
+to = "/posts/2024-04-11-beauty-in-the-dark/"
+
+[[redirects]]
+from = "/a-taste-of-elegance/index.html"
+to = "/posts/2024-08-07-a-taste-of-elegance/"
+
+[[redirects]]
+from = "/a-visual-embodiment-of-the-muse-juliana-nalu/index.html"
+to = "/posts/2024-02-18-a-visual-embodiment-of-the-muse-juliana-nalu/"
+
+[[redirects]]
+from = "/clear-vision/index.html"
+to = "/posts/2023-04-17-clear-vision/"
+
+[[redirects]]
+from = "/lunar-eclipse/index.html"
+to = "/posts/2024-03-27-lunar-eclipse/"
+
+[[redirects]]
+from = "/earth-whispers/index.html"
+to = "/posts/2023-12-27-earth-whispers/"
+
+[[redirects]]
+from = "/aliens/index.html"
+to = "/posts/2023-12-18-aliens/"
+
+[[redirects]]
 from = "/24h-in-zurich-guide/index.html"
 to = "/posts/2023-02-03-24h-in-zurich-guide/"
+
+[[redirects]]
+from = "/chiara-oscuro/index.html"
+to = "/posts/2024-03-30-chiara-oscuro/"
+
+[[redirects]]
+from = "/dark-lights/index.html"
+to = "/posts/2024-10-25-dark-lights/"
+
+[[redirects]]
+from = "/jhona-burjack-gabriella-pires/index.html"
+to = "/posts/2024-09-12-jhona-burjack-gabriella-pires/"
+
+[[redirects]]
+from = "/a-rising-star-interview-with-thomas-doherty/index.html"
+to = "/posts/2023-02-18-a-rising-star-interview-with-thomas-doherty/"
+
+[[redirects]]
+from = "/ex-umano/index.html"
+to = "/posts/2024-07-12-ex-umano/"
+
+[[redirects]]
+from = "/limitless/index.html"
+to = "/posts/2024-10-22-limitless/"
+
+[[redirects]]
+from = "/addicted/index.html"
+to = "/posts/2023-12-18-addicted/"
+
+[[redirects]]
+from = "/beyond-measure/index.html"
+to = "/posts/2024-10-18-beyond-measure/"
+
+[[redirects]]
+from = "/fierce-elegance/index.html"
+to = "/posts/2024-02-12-fierce-elegance/"
+
+[[redirects]]
+from = "/decentralized-autonomous-organization-in-the-digital-realm-what-is-a-dao/index.html"
+to = "/posts/2023-11-21-decentralized-autonomous-organization-in-the-digital-realm-what-is-a-dao/"
+
+[[redirects]]
+from = "/new-wave/index.html"
+to = "/posts/2023-07-11-new-wave/"
+
+[[redirects]]
+from = "/dr-martha-boeckenfeld-a-visionary-looks-to-the-future/index.html"
+to = "/posts/2023-11-16-dr-martha-boeckenfeld-a-visionary-looks-to-the-future/"
+
+[[redirects]]
+from = "/communities-in-the-world-of-bits/index.html"
+to = "/posts/2023-11-24-communities-in-the-world-of-bits/"
+
+[[redirects]]
+from = "/menu-a-la-carte/index.html"
+to = "/posts/2024-01-03-menu-a-la-carte/"
+
+[[redirects]]
+from = "/glowing/index.html"
+to = "/posts/2024-04-22-glowing/"
+
+[[redirects]]
+from = "/chroma/index.html"
+to = "/posts/2023-04-17-chroma/"
+
+[[redirects]]
+from = "/%e2%88%9e/index.html"
+to = "/posts/2024-10-17-infinity/"
+
+[[redirects]]
+from = "/meta-get-ready-what-is-web3/index.html"
+to = "/posts/2023-02-18-meta-get-ready-what-is-web3/"
+
+[[redirects]]
+from = "/form/index.html"
+to = "/posts/2024-04-11-form/"
 
 [[redirects]]
 from = "/posts/2026-06-22-humbe/index.html"
 to = "/posts/2026-06-18-humbe-old/"
 
 [[redirects]]
+from = "/introducing-six-n-five-the-visionary-world-of-ezequiel-pini/index.html"
+to = "/posts/2023-08-03-introducing-six-n-five-the-visionary-world-of-ezequiel-pini/"
+
+[[redirects]]
+from = "/jon-kortajarena-infinite-charisma/index.html"
+to = "/posts/2024-10-19-jon-kortajarena-infinite-charisma/"
+
+[[redirects]]
+from = "/raphael-mazzucco-the-canadian-visionary-behind-the-lens/index.html"
+to = "/posts/2023-06-26-raphael-mazzucco-the-canadian-visionary-behind-the-lens/"
+
+[[redirects]]
+from = "/colin-phelan/index.html"
+to = "/posts/2023-02-17-colin-phelan/"
+
+[[redirects]]
+from = "/ruby-rhapsody/index.html"
+to = "/posts/2024-07-31-ruby-rhapsody/"
+
+[[redirects]]
+from = "/brutalism/index.html"
+to = "/posts/2023-11-16-brutalism/"
+
+[[redirects]]
+from = "/meta-get-ready-what-is-the-metaverse/index.html"
+to = "/posts/2023-02-18-meta-get-ready-what-is-the-metaverse/"
+
+[[redirects]]
+from = "/moths-to-a-flame/index.html"
+to = "/posts/2024-09-13-moths-to-a-flame/"
+
+[[redirects]]
+from = "/oramavr-medical-vr-training/index.html"
+to = "/posts/2023-02-09-oramavr-medical-vr-training/"
+
+[[redirects]]
+from = "/fluxus/index.html"
+to = "/posts/2024-10-22-fluxus/"
+
+[[redirects]]
+from = "/fortune-teller/index.html"
+to = "/posts/2023-04-16-fortune-teller/"
+
+[[redirects]]
+from = "/hannah-widmer/index.html"
+to = "/posts/2026-07-29-hannah-widmer/"
+
+[[redirects]]
+from = "/indira-varma/index.html"
+to = "/posts/2023-12-24-indira-varma/"
+
+[[redirects]]
+from = "/common-threads/index.html"
+to = "/posts/2023-12-26-common-threads/"
+
+[[redirects]]
+from = "/beauty-disrupted-rebels-with-a-cause/index.html"
+to = "/posts/2023-02-07-beauty-disrupted-rebels-with-a-cause/"
+
+[[redirects]]
+from = "/hear-me-out/index.html"
+to = "/posts/2023-12-23-hear-me-out/"
+
+[[redirects]]
+from = "/istituto-svizzero-klodin-erb/index.html"
+to = "/posts/2023-12-12-istituto-svizzero-klodin-erb/"
+
+[[redirects]]
+from = "/not-just-a-token-entrepreneur/index.html"
+to = "/posts/2024-06-07-not-just-a-token-entrepreneur/"
+
+[[redirects]]
+from = "/im-persephone/index.html"
+to = "/posts/2024-08-17-im-persephone/"
+
+[[redirects]]
+from = "/cara/index.html"
+to = "/posts/2023-04-24-cara/"
+
+[[redirects]]
+from = "/humbe/index.html"
+to = "/posts/2026-06-19-humbe/"
+
+[[redirects]]
+from = "/momentx/index.html"
+to = "/posts/2023-02-09-momentx/"
+
+[[redirects]]
+from = "/meta-buzz-open-24-7/index.html"
+to = "/posts/2023-02-18-meta-buzz-open-24-7/"
+
+[[redirects]]
+from = "/enter-the-bath-house/index.html"
+to = "/posts/2023-07-18-enter-the-bath-house/"
+
+[[redirects]]
+from = "/maye-musk-bold-blue/index.html"
+to = "/posts/2024-10-25-maye-musk-bold-blue/"
+
+[[redirects]]
+from = "/emerge-from-the-surreal/index.html"
+to = "/posts/2023-07-10-emerge-from-the-surreal/"
+
+[[redirects]]
+from = "/crafting-illusions/index.html"
+to = "/posts/2024-08-27-crafting-illusions/"
+
+[[redirects]]
+from = "/house-of-coco-interview-with-coco-rocha/index.html"
+to = "/posts/2023-02-18-house-of-coco-interview-with-coco-rocha/"
+
+[[redirects]]
+from = "/isaac-dunbar/index.html"
+to = "/posts/2024-07-25-isaac-dunbar/"
+
+[[redirects]]
+from = "/bipolar/index.html"
+to = "/posts/2024-03-12-bipolar/"
+
+[[redirects]]
+from = "/generative-fill/index.html"
+to = "/posts/2023-11-18-generative-fill/"
+
+[[redirects]]
+from = "/lionheart/index.html"
+to = "/posts/2023-02-16-lionheart/"
+
+[[redirects]]
+from = "/flashing-lights/index.html"
+to = "/posts/2023-10-19-flashing-lights/"
+
+[[redirects]]
+from = "/meredith-duxbury-radiant-revelations/index.html"
+to = "/posts/2024-08-27-meredith-duxbury-radiant-revelations/"
+
+[[redirects]]
+from = "/homestead/index.html"
+to = "/posts/2023-04-16-homestead/"
+
+[[redirects]]
+from = "/medusa/index.html"
+to = "/posts/2023-06-23-medusa/"
+
+[[redirects]]
+from = "/goth-rebirth/index.html"
+to = "/posts/2024-02-08-goth-rebirth/"
+
+[[redirects]]
+from = "/chocolate-story-its-a-chocolate/index.html"
+to = "/posts/2023-02-03-chocolate-story-its-a-chocolate/"
+
+[[redirects]]
+from = "/alvaro/index.html"
+to = "/posts/2024-05-22-alvaro/"
+
+[[redirects]]
+from = "/life-in-dreamscape/index.html"
+to = "/posts/2023-04-25-life-in-dreamscape/"
+
+[[redirects]]
+from = "/reviving-60s/index.html"
+to = "/posts/2024-06-12-reviving-60s/"
+
+[[redirects]]
 from = "/posts/2026-06-21-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
 
 [[redirects]]
+from = "/a-vertical-vogue/index.html"
+to = "/posts/2024-04-23-a-vertical-vogue/"
+
+[[redirects]]
+from = "/refik-anadol/index.html"
+to = "/posts/2023-11-21-refik-anadol/"
+
+[[redirects]]
+from = "/nailzzz/index.html"
+to = "/posts/2023-02-16-nailzzz/"
+
+[[redirects]]
+from = "/dark-fantasy/index.html"
+to = "/posts/2024-08-17-dark-fantasy/"
+
+[[redirects]]
+from = "/abyss/index.html"
+to = "/posts/2024-10-18-abyss/"
+
+[[redirects]]
+from = "/gliding-shadows/index.html"
+to = "/posts/2023-11-18-gliding-shadows/"
+
+[[redirects]]
+from = "/girls-remember-dont-smile-walk-straight-look-tough/index.html"
+to = "/posts/2024-08-08-girls-remember-dont-smile-walk-straight-look-tough/"
+
+[[redirects]]
+from = "/elle-macpherson-the-power-of-intuative-living/index.html"
+to = "/posts/2024-02-06-elle-macpherson-the-power-of-intuative-living/"
+
+[[redirects]]
 from = "/posts/2026-06-22-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
+
+[[redirects]]
+from = "/blue-horizon/index.html"
+to = "/posts/2023-11-03-blue-horizon/"
+
+[[redirects]]
+from = "/escape/index.html"
+to = "/posts/2023-12-14-escape/"
+
+[[redirects]]
+from = "/planet-huet/index.html"
+to = "/posts/2023-06-15-planet-huet/"
+
+[[redirects]]
+from = "/all-the-things-i-used-to-see/index.html"
+to = "/posts/2023-05-09-all-the-things-i-used-to-see/"
 
