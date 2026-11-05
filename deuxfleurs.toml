@@ -23,6 +23,10 @@ from = "/precious-achiuwa/index.html"
 to = "/posts/2024-02-15-precious-achiuwa/"
 
 [[redirects]]
+from = "/waiting-room/index.html"
+to = "/posts/2023-04-16-waiting-room/"
+
+[[redirects]]
 from = "/e-motion/index.html"
 to = "/posts/2023-10-31-e-motion/"
 
@@ -56,7 +60,7 @@ to = "/posts/2024-08-17-kintsugi/"
 
 [[redirects]]
 from = "/savannah-mirage/index.html"
-to = ""
+to = "/posts/2023-02-07-savannah-mirage/"
 
 [[redirects]]
 from = "/color-up-your-life/index.html"
@@ -83,8 +87,16 @@ from = "/journee-wwf-oceandetox-the-first-metaverse-for-a-good-cause/index.html"
 to = "/posts/2023-02-03-journee-wwf-oceandetox-the-first-metaverse-for-a-good-cause/"
 
 [[redirects]]
+from = "/venom/index.html"
+to = "/posts/2024-08-18-venom/"
+
+[[redirects]]
 from = "/lana/index.html"
 to = "/posts/2024-07-01-lana/"
+
+[[redirects]]
+from = "/young-people-in-small-towns/index.html"
+to = "/posts/2023-04-27-young-people-in-small-towns/"
 
 [[redirects]]
 from = "/bloom/index.html"
@@ -95,6 +107,10 @@ from = "/rainbow/index.html"
 to = "/posts/2024-09-01-rainbow/"
 
 [[redirects]]
+from = "/siren/index.html"
+to = "/posts/2023-07-14-siren/"
+
+[[redirects]]
 from = "/la-nuit/index.html"
 to = "/posts/2023-11-03-la-nuit/"
 
@@ -103,8 +119,20 @@ from = "/neo-modern-breath/index.html"
 to = "/posts/2024-06-15-neo-modern-breath/"
 
 [[redirects]]
+from = "/wanderlust/index.html"
+to = "/posts/2023-04-17-wanderlust/"
+
+[[redirects]]
+from = "/time-dilation/index.html"
+to = "/posts/2024-06-12-time-dilation/"
+
+[[redirects]]
 from = "/dior-x-parley-for-the-oceans/index.html"
 to = "/posts/2023-11-24-dior-x-parley-for-the-oceans/"
+
+[[redirects]]
+from = "/the-cupidon-effect/index.html"
+to = "/posts/2025-05-17-the-cupidon-effect/"
 
 [[redirects]]
 from = "/love-energy/index.html"
@@ -119,6 +147,10 @@ from = "/ivan-pellicer/index.html"
 to = "/posts/2024-08-01-ivan-pellicer/"
 
 [[redirects]]
+from = "/wes-world/index.html"
+to = "/posts/2024-02-15-wes-world/"
+
+[[redirects]]
 from = "/haute-fluidity/index.html"
 to = "/posts/2024-02-13-haute-fluidity/"
 
@@ -129,6 +161,10 @@ to = "/posts/2024-09-05-never-ending-summer/"
 [[redirects]]
 from = "/brighton-by-the-sea/index.html"
 to = "/posts/2023-04-16-brighton-by-the-sea/"
+
+[[redirects]]
+from = "/sparse-woman/index.html"
+to = "/posts/2023-12-13-sparse-woman/"
 
 [[redirects]]
 from = "/backstage-ballet/index.html"
@@ -145,6 +181,10 @@ to = "/posts/2023-05-30-dynamism-of-the-future/"
 [[redirects]]
 from = "/immersed-in-the-rhythm/index.html"
 to = "/posts/2023-04-12-immersed-in-the-rhythm/"
+
+[[redirects]]
+from = "/the-creator/index.html"
+to = "/posts/2024-02-15-the-creator/"
 
 [[redirects]]
 from = "/90s-kids/index.html"
@@ -191,6 +231,10 @@ from = "/before-the-after-hours/index.html"
 to = "/posts/2023-12-22-before-the-after-hours/"
 
 [[redirects]]
+from = "/to-become/index.html"
+to = "/posts/2023-05-19-to-become/"
+
+[[redirects]]
 from = "/beyond-tennis-federers-off-the-court-legacy/index.html"
 to = "/posts/2023-02-09-beyond-tennis-federers-off-the-court-legacy/"
 
@@ -203,8 +247,28 @@ from = "/blueboy-ride/index.html"
 to = "/posts/2023-10-25-blueboy-ride/"
 
 [[redirects]]
+from = "/wonder-woman/index.html"
+to = "/posts/2023-10-19-wonder-woman/"
+
+[[redirects]]
+from = "/sleek-and-cold/index.html"
+to = "/posts/2023-05-01-sleek-and-cold/"
+
+[[redirects]]
 from = "/my-homeland/index.html"
 to = "/posts/2024-04-19-my-homeland/"
+
+[[redirects]]
+from = "/tour-de-force/index.html"
+to = "/posts/2024-05-22-tour-de-force/"
+
+[[redirects]]
+from = "/steven-kruegers-unique-path/index.html"
+to = "/posts/2023-06-28-steven-kruegers-unique-path/"
+
+[[redirects]]
+from = "/trichromatic/index.html"
+to = "/posts/2023-04-17-trichromatic/"
 
 [[redirects]]
 from = "/luminous/index.html"
@@ -223,8 +287,20 @@ from = "/marco-schmidli/index.html"
 to = "/posts/2023-02-17-marco-schmidli/"
 
 [[redirects]]
+from = "/thomas-anthony-olajide/index.html"
+to = "/posts/2023-05-05-thomas-anthony-olajide/"
+
+[[redirects]]
 from = "/dimension/index.html"
 to = "/posts/2024-08-16-dimension/"
+
+[[redirects]]
+from = "/synthesis/index.html"
+to = "/posts/2024-04-16-synthesis/"
+
+[[redirects]]
+from = "/the-haotian-dream/index.html"
+to = "/posts/2024-10-19-the-haotian-dream/"
 
 [[redirects]]
 from = "/double-life/index.html"
@@ -255,6 +331,14 @@ from = "/car-park/index.html"
 to = "/posts/2024-08-14-car-park/"
 
 [[redirects]]
+from = "/susan-duff-endless-love/index.html"
+to = "/posts/2024-10-18-susan-duff-endless-love/"
+
+[[redirects]]
+from = "/shapeless/index.html"
+to = "/posts/2023-07-31-shapeless/"
+
+[[redirects]]
 from = "/elle-macpherson-the-power-of-intuitive-living/index.html"
 to = "/posts/2024-01-09-elle-macpherson-the-power-of-intuitive-living/"
 
@@ -269,6 +353,10 @@ to = "/posts/2023-04-13-on-the-other-side/"
 [[redirects]]
 from = "/playground/index.html"
 to = "/posts/2023-02-17-playground/"
+
+[[redirects]]
+from = "/the-artling/index.html"
+to = "/posts/2023-02-19-the-artling/"
 
 [[redirects]]
 from = "/castell-son-claret/index.html"
@@ -287,12 +375,32 @@ from = "/alessandra-ambrosio-captured-elegance/index.html"
 to = "/posts/2023-10-24-alessandra-ambrosio-captured-elegance/"
 
 [[redirects]]
+from = "/stephen-brown-visionary-unveiled/index.html"
+to = "/posts/2023-05-31-stephen-brown-visionary-unveiled/"
+
+[[redirects]]
 from = "/sail-away/index.html"
 to = "/posts/2023-10-26-sail-away/"
 
 [[redirects]]
+from = "/subtlety/index.html"
+to = "/posts/2024-04-06-subtlety/"
+
+[[redirects]]
+from = "/surreal/index.html"
+to = "/posts/2024-04-15-surreal/"
+
+[[redirects]]
 from = "/dressx-metafashions-avatar/index.html"
 to = "/posts/2023-02-16-dressx-metafashions-avatar/"
+
+[[redirects]]
+from = "/sphere/index.html"
+to = "/posts/2023-12-14-sphere/"
+
+[[redirects]]
+from = "/the-rythmic-world-of-ape-drums/index.html"
+to = "/posts/2023-06-13-the-rythmic-world-of-ape-drums/"
 
 [[redirects]]
 from = "/raph/index.html"
@@ -305,6 +413,10 @@ to = "/posts/2024-10-22-reflected-illusions/"
 [[redirects]]
 from = "/inner-bloom/index.html"
 to = "/posts/2024-10-22-inner-bloom/"
+
+[[redirects]]
+from = "/in-the-world-of-petite-meller-an-alchemist-of-sound-and-style/index.html"
+to = "/posts/2024-03-08-in-the-world-of-petite-meller-an-alchemist-of-sound-and-style/"
 
 [[redirects]]
 from = "/house-of-orsini/index.html"
@@ -327,6 +439,10 @@ from = "/midnight-cowboy/index.html"
 to = "/posts/2023-07-18-midnight-cowboy/"
 
 [[redirects]]
+from = "/zoe-pastelle/index.html"
+to = "/posts/2024-03-09-zoe-pastelle/"
+
+[[redirects]]
 from = "/beauty-building/index.html"
 to = "/posts/2024-09-12-beauty-building/"
 
@@ -347,12 +463,48 @@ from = "/a-future-in-motion/index.html"
 to = "/posts/2023-10-26-a-future-in-motion/"
 
 [[redirects]]
+from = "/work-hard-play-hard/index.html"
+to = "/posts/2024-03-12-work-hard-play-hard/"
+
+[[redirects]]
+from = "/shades-of-women/index.html"
+to = "/posts/2024-02-13-shades-of-women/"
+
+[[redirects]]
+from = "/shades-of-us/index.html"
+to = "/posts/2024-10-20-shades-of-us/"
+
+[[redirects]]
 from = "/a-infinitenot-an-ai-story/index.html"
 to = "/posts/2024-10-23-a-infinitenot-an-ai-story/"
 
 [[redirects]]
+from = "/unraveling-the-threads-of-success/index.html"
+to = "/posts/2023-08-18-unraveling-the-threads-of-success/"
+
+[[redirects]]
+from = "/the-true-sight/index.html"
+to = "/posts/2024-10-20-the-true-sight/"
+
+[[redirects]]
+from = "/underwater-dreams/index.html"
+to = "/posts/2023-07-03-underwater-dreams/"
+
+[[redirects]]
+from = "/the-light-beyond-the-moon/index.html"
+to = "/posts/2023-12-23-the-light-beyond-the-moon/"
+
+[[redirects]]
 from = "/a-brazilian-tale/index.html"
 to = "/posts/2023-04-12-a-brazilian-tale/"
+
+[[redirects]]
+from = "/the-beginning-and-the-end/index.html"
+to = "/posts/2023-07-05-the-beginning-and-the-end/"
+
+[[redirects]]
+from = "/waters-whisper/index.html"
+to = "/posts/2023-07-06-waters-whisper/"
 
 [[redirects]]
 from = "/maksim/index.html"
@@ -371,6 +523,10 @@ from = "/davide-corona/index.html"
 to = "/posts/2024-10-30-davide-corona/"
 
 [[redirects]]
+from = "/the-carlton-chameleon/index.html"
+to = "/posts/2024-04-13-the-carlton-chameleon/"
+
+[[redirects]]
 from = "/%d0%b7o%d0%bbo%d1%82a%d1%8f-%d0%b1a%d0%b1azolotaya-baba-golden-woman/index.html"
 to = "/posts/2024-04-19-baba-golden-woman/"
 
@@ -379,12 +535,20 @@ from = "/flow/index.html"
 to = "/posts/2023-10-27-flow/"
 
 [[redirects]]
+from = "/s-o-s/index.html"
+to = "/posts/2023-07-12-s-o-s/"
+
+[[redirects]]
 from = "/beauty-in-the-dark/index.html"
 to = "/posts/2024-04-11-beauty-in-the-dark/"
 
 [[redirects]]
 from = "/a-taste-of-elegance/index.html"
 to = "/posts/2024-08-07-a-taste-of-elegance/"
+
+[[redirects]]
+from = "/underwater-love/index.html"
+to = "/posts/2023-07-08-underwater-love/"
 
 [[redirects]]
 from = "/a-visual-embodiment-of-the-muse-juliana-nalu/index.html"
@@ -407,8 +571,28 @@ from = "/aliens/index.html"
 to = "/posts/2023-12-18-aliens/"
 
 [[redirects]]
+from = "/take-a-bow/index.html"
+to = "/posts/2023-11-25-take-a-bow/"
+
+[[redirects]]
 from = "/24h-in-zurich-guide/index.html"
 to = "/posts/2023-02-03-24h-in-zurich-guide/"
+
+[[redirects]]
+from = "/the-world-is-a-skirt-i-want-to-lift-up/index.html"
+to = "/posts/2023-05-17-the-world-is-a-skirt-i-want-to-lift-up/"
+
+[[redirects]]
+from = "/sunset-serenade/index.html"
+to = "/posts/2024-04-17-sunset-serenade/"
+
+[[redirects]]
+from = "/transhumance/index.html"
+to = "/posts/2024-11-01-transhumance/"
+
+[[redirects]]
+from = "/summer-love-story/index.html"
+to = "/posts/2023-07-13-summer-love-story/"
 
 [[redirects]]
 from = "/chiara-oscuro/index.html"
@@ -417,6 +601,10 @@ to = "/posts/2024-03-30-chiara-oscuro/"
 [[redirects]]
 from = "/dark-lights/index.html"
 to = "/posts/2024-10-25-dark-lights/"
+
+[[redirects]]
+from = "/triplique/index.html"
+to = "/posts/2024-10-20-triplique/"
 
 [[redirects]]
 from = "/jhona-burjack-gabriella-pires/index.html"
@@ -463,16 +651,32 @@ from = "/communities-in-the-world-of-bits/index.html"
 to = "/posts/2023-11-24-communities-in-the-world-of-bits/"
 
 [[redirects]]
+from = "/wet/index.html"
+to = "/posts/2023-12-23-wet/"
+
+[[redirects]]
 from = "/menu-a-la-carte/index.html"
 to = "/posts/2024-01-03-menu-a-la-carte/"
+
+[[redirects]]
+from = "/unidentified-bubble/index.html"
+to = "/posts/2023-05-01-unidentified-bubble/"
 
 [[redirects]]
 from = "/glowing/index.html"
 to = "/posts/2024-04-22-glowing/"
 
 [[redirects]]
+from = "/the-running-chef/index.html"
+to = "/posts/2023-12-04-the-running-chef/"
+
+[[redirects]]
 from = "/chroma/index.html"
 to = "/posts/2023-04-17-chroma/"
+
+[[redirects]]
+from = "/wardrobe/index.html"
+to = "/posts/2024-07-24-wardrobe/"
 
 [[redirects]]
 from = "/%e2%88%9e/index.html"
@@ -481,6 +685,10 @@ to = "/posts/2024-10-17-infinity/"
 [[redirects]]
 from = "/meta-get-ready-what-is-web3/index.html"
 to = "/posts/2023-02-18-meta-get-ready-what-is-web3/"
+
+[[redirects]]
+from = "/together/index.html"
+to = "/posts/2023-05-23-together/"
 
 [[redirects]]
 from = "/form/index.html"
@@ -499,6 +707,10 @@ from = "/jon-kortajarena-infinite-charisma/index.html"
 to = "/posts/2024-10-19-jon-kortajarena-infinite-charisma/"
 
 [[redirects]]
+from = "/the-rose/index.html"
+to = "/posts/2023-12-13-the-rose/"
+
+[[redirects]]
 from = "/raphael-mazzucco-the-canadian-visionary-behind-the-lens/index.html"
 to = "/posts/2023-06-26-raphael-mazzucco-the-canadian-visionary-behind-the-lens/"
 
@@ -511,8 +723,16 @@ from = "/ruby-rhapsody/index.html"
 to = "/posts/2024-07-31-ruby-rhapsody/"
 
 [[redirects]]
+from = "/villa-deste/index.html"
+to = "/posts/2023-11-15-villa-deste/"
+
+[[redirects]]
 from = "/brutalism/index.html"
 to = "/posts/2023-11-16-brutalism/"
+
+[[redirects]]
+from = "/the-color-blue/index.html"
+to = "/posts/2023-05-11-the-color-blue/"
 
 [[redirects]]
 from = "/meta-get-ready-what-is-the-metaverse/index.html"
@@ -611,8 +831,16 @@ from = "/bipolar/index.html"
 to = "/posts/2024-03-12-bipolar/"
 
 [[redirects]]
+from = "/screen-time/index.html"
+to = "/posts/2023-04-16-screen-time/"
+
+[[redirects]]
 from = "/generative-fill/index.html"
 to = "/posts/2023-11-18-generative-fill/"
+
+[[redirects]]
+from = "/the-future-of-mental-health-in-the-metaverse-with-krista-kim/index.html"
+to = "/posts/2023-08-08-the-future-of-mental-health-in-the-metaverse-with-krista-kim/"
 
 [[redirects]]
 from = "/lionheart/index.html"
@@ -647,6 +875,10 @@ from = "/alvaro/index.html"
 to = "/posts/2024-05-22-alvaro/"
 
 [[redirects]]
+from = "/the-vitruvian-woman/index.html"
+to = "/posts/2023-04-16-the-vitruvian-woman/"
+
+[[redirects]]
 from = "/life-in-dreamscape/index.html"
 to = "/posts/2023-04-25-life-in-dreamscape/"
 
@@ -655,12 +887,20 @@ from = "/reviving-60s/index.html"
 to = "/posts/2024-06-12-reviving-60s/"
 
 [[redirects]]
+from = "/set-chronicles/index.html"
+to = "/posts/2024-09-01-set-chronicles/"
+
+[[redirects]]
 from = "/posts/2026-06-21-ainfinitenot-an-ai-story/index.html"
 to = "/posts/2026-06-21-ainfinitenot-an-ai-story-old/"
 
 [[redirects]]
 from = "/a-vertical-vogue/index.html"
 to = "/posts/2024-04-23-a-vertical-vogue/"
+
+[[redirects]]
+from = "/seasonal-vexation/index.html"
+to = "/posts/2024-07-13-seasonal-vexation/"
 
 [[redirects]]
 from = "/refik-anadol/index.html"
@@ -685,6 +925,10 @@ to = "/posts/2023-11-18-gliding-shadows/"
 [[redirects]]
 from = "/girls-remember-dont-smile-walk-straight-look-tough/index.html"
 to = "/posts/2024-08-08-girls-remember-dont-smile-walk-straight-look-tough/"
+
+[[redirects]]
+from = "/signaling-the-future/index.html"
+to = "/posts/2023-02-09-signaling-the-future/"
 
 [[redirects]]
 from = "/elle-macpherson-the-power-of-intuative-living/index.html"
