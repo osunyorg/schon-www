@@ -19,24 +19,8 @@ from = "/posts/2026-06-18-humbe/index.html"
 to = "/posts/2026-06-18-humbe-old/"
 
 [[redirects]]
-from = "/posts/2025-02-23-nocte-statuae/index.html"
-to = "/posts/2023-02-03-24h-in-zurich-guide-147/"
-
-[[redirects]]
-from = "/posts/2026-07-29-hannah-widmer/index.html"
-to = "/posts/2023-02-03-24h-in-zurich-guide-91/"
-
-[[redirects]]
-from = "/nocte-statuae/index.html"
-to = "/posts/2023-02-03-24h-in-zurich-guide-147/"
-
-[[redirects]]
 from = "/24h-in-zurich-guide/index.html"
 to = "/posts/2023-02-03-24h-in-zurich-guide/"
-
-[[redirects]]
-from = "/hannah-widmer/index.html"
-to = "/posts/2023-02-03-24h-in-zurich-guide-91/"
 
 [[redirects]]
 from = "/posts/2026-06-22-humbe/index.html"
